@@ -4,6 +4,9 @@ Aşağıdaki sonuçlar da 2 farklı devre için değişik nodelardaki voltaj de�
 
 1. devre osiloskop görüntüleri
 
+
+
+
 ![resim](https://user-images.githubusercontent.com/41144376/52547623-17631280-2dda-11e9-993a-488e2347a0eb.png)
 ![resim](https://user-images.githubusercontent.com/41144376/52547633-234ed480-2dda-11e9-821a-b31e226110f2.png)
 ![resim](https://user-images.githubusercontent.com/41144376/52547638-26e25b80-2dda-11e9-972c-6ab367c8d22e.png)
@@ -16,6 +19,9 @@ Aşağıdaki sonuçlar da 2 farklı devre için değişik nodelardaki voltaj de�
 ![resim](https://user-images.githubusercontent.com/41144376/52547663-3feb0c80-2dda-11e9-85da-387e2a9da9be.png)
 
 2. devre osiloskop görüntüleri
+
+
+
 
 ![resim](https://user-images.githubusercontent.com/41144376/52547795-15e61a00-2ddb-11e9-9034-4bceb6c8aa9b.png)
 ![resim](https://user-images.githubusercontent.com/41144376/52547798-18e10a80-2ddb-11e9-9198-e574d5bbeff7.png)
